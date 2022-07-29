@@ -1,0 +1,17 @@
+body{
+  background-color: burlywood;
+  color: green;
+  padding: 10px;
+}
+
+#picture{
+  float: left;
+}
+
+#description{
+  float: right;
+}
+
+#reviews{
+  clear: both;
+}
